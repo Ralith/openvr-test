@@ -1,0 +1,10 @@
+[package]
+name = "openvr-test"
+version = "0.1.0"
+authors = ["Benjamin Saunders <ben.e.saunders@gmail.com>"]
+
+[dependencies]
+openvr = { path = "openvr" }
+vulkano = "0.5.6"
+vulkano-shader-derive = "0.5.6"
+
